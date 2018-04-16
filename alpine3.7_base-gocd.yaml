@@ -1,3 +1,5 @@
+format_version: 2
+
 pipelines:
   alpine3.7_base_MP:
     group: OEB_Docker_Images_v2
